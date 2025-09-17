@@ -1,0 +1,14 @@
+{
+  "name": "danieldefense_cypress",
+  "version": "1.0.0",
+  "description": "Daniel Defense Cypress Automation Scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  }
+}

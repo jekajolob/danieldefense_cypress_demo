@@ -1,0 +1,28 @@
+cypress/videos
+node_modules
+.DS_Store
+
+# Cypress environment files (may contain secrets)
+cypress.env*.json
+
+# Dotenv files
+.env*
+*.env
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.p7s
+*.cer
+*.crt
+*.der
+id_rsa
+id_dsa
+id_ed25519
+id_ecdsa
+
+# Package manager auth files
+.npmrc
+.yarnrc.yml
